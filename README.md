@@ -30,7 +30,7 @@
     <a href="https://discord.gg/mikoes_30" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mikoes_30" height="30" width="40" /></a>
   </p>
 
-  <h3>Languages and Tools:</h3>
+
  <div align="center">
   <h3>Languages and Tools:</h3>
   <div style="display: flex; justify-content: center; flex-wrap: wrap;">
@@ -59,9 +59,20 @@
 <br>
 <br>
 
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nickolandermilan30&show_icons=true&locale=en&layout=compact" alt="nickolandermilan30" /></p>
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; align-items: center;">
 
-  <p><img src="https://github-readme-stats.vercel.app/api?username=nickolandermilan30&show_icons=true&locale=en" alt="nickolandermilan30" /></p>
+  <div style="width: 30%; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nickolandermilan30&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  </div>
 
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nickolandermilan30" alt="nickolandermilan30" /></p>
+ 
+  <div style="width: 30%; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=nickolandermilan30&show_icons=true&locale=en" alt="GitHub Stats" />
+  </div>
+
+  <div style="width: 30%; margin: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nickolandermilan30" alt="GitHub Streak" />
+  </div>
+
+</div>
 </div>
