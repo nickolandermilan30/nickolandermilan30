@@ -6,22 +6,14 @@
 </div>
 
   
-  <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</div> 
+ 
   
 
  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" /> <img alt="Coder GIF" height="250" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /> <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" />
 
   <p> <img src="https://komarev.com/ghpvc/?username=nickolandermilan30&label=Profile%20views&color=0e75b6&style=flat" alt="nickolandermilan30" /> </p>
   
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</div>
+
   <h3>Connect with me:</h3>
   <p>
     <a href="https://linkedin.com/in/nicko lander rosales milan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicko lander rosales milan" height="30" width="40" /></a>
