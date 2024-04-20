@@ -22,9 +22,6 @@
   </div>
 
  
-  <div style="width: 30%; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=nickolandermilan30&show_icons=true&locale=en" alt="GitHub Stats" />
-  </div>
 
   <div style="width: 30%; margin: 10px;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nickolandermilan30" alt="GitHub Streak" />
