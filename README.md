@@ -2,7 +2,7 @@
   <img alt="Header" src="https://github.com/nickolandermilan30/nickolandermilan30/assets/135952476/50617048-ea21-4b6b-aab2-27e733a3a71c">
    
   <div style="text-align: center;">
-  <h3>Im Dedicated Inspiring FrontEnd Web Developer from the Philippines</h3>
+  <h3>Im Sofware Dewveloper from the Philippines</h3>
 </div>
 
   
